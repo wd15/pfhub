@@ -9,3 +9,5 @@ published: true
 {% assign file_path = page.url | truncate: len, "" | append: ".md" %}
 
 [edit this page]({{ site.prose_base }}{{ file_path }})
+
+Here is some text, which I have added.
