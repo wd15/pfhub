@@ -17,7 +17,7 @@ feedback, such as helping developers of open-source codes find out how
 easily their software can be installed. Significant portions of the
 workshops are devoted to discussion, which helps the community become
 more integrated and enables us to work together to determine future
-needs and avenues of work.
+needs and avenues of work. [test edit]
 
 ## Worshop Schedule
 
