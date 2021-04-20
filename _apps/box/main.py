@@ -1,19 +1,4 @@
-"""Run this with
-
-    $ uvicorn main:app --reload
-
-Test with
-
-  curl -X "POST" -F "fileb=@./shell.nix" http://localhost:8000/upload/
-
-or on the app with
-
-  curl -X "POST" -F "fileb=@./shell.nix" https://pfhub-box.appspot.com/upload/
-
-Todo:
-
- - set up test cases
- - test on heroku
+"""See the README.md for testing instructions
 """
 
 
